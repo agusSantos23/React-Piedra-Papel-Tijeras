@@ -1,0 +1,12 @@
+body{
+    background-color: darkslategrey;
+    color: white;
+    
+}
+
+button{
+    font-size: 70px;
+    margin: 20px;
+    cursor: pointer;
+}
+
